@@ -1,4 +1,12 @@
-### Hi there 👋
+# AswinBlue
+---
+1. Contact me
+  - aswindblew@gmail.com
+2. Foot prints
+  - Personal Blog : https://aswinblue.github.io/Blog/
+  - Projects : https://aswinblue.github.io/Blog/post/projects/
+
+
 
 <!--
 **AswinBlue/AswinBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
